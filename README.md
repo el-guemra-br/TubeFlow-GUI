@@ -50,9 +50,13 @@
 ## Project Status & Personal Note
 **TubeFlow GUI** is currently **under active development**. 
 
+> [!NOTE]  
+> **A quick heads-up:** Since this is a personal project I work on in my free time, it might not always run perfectly smoothly. You might run into a few hiccups or functions that are still being polished. Thanks for your patience as I continue to refine it!
+
 This project began as a humble personal endeavor to fill my free time with something productive and creative. While it is a simple tool, it was built with a genuine passion for programming and a desire to make `yt-dlp` more accessible to everyone. Coding is a journey, and I’m happy to share this small part of mine with you.
 
 ## Let's Collaborate!
+
 I am very open to hearing your thoughts and ideas! Whether you have:
 *  **New Ideas** for features
 *  **Modifications** to the source code
