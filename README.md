@@ -50,7 +50,7 @@
 ## Project Status & Personal Note
 **TubeFlow GUI** is currently **under active development**. 
 
-> [!NOTE]  
+> [`!NOTE`]  
 > **A quick heads-up:** Since this is a personal project I work on in my free time, it might not always run perfectly smoothly. You might run into a few hiccups or functions that are still being polished. Thanks for your patience as I continue to refine it!
 
 This project began as a humble personal endeavor to fill my free time with something productive and creative. While it is a simple tool, it was built with a genuine passion for programming and a desire to make `yt-dlp` more accessible to everyone. Coding is a journey, and I’m happy to share this small part of mine with you.
@@ -62,7 +62,7 @@ I am very open to hearing your thoughts and ideas! Whether you have:
 *  **Modifications** to the source code
 *  **Bug Reports**
 
-I accept and welcome all suggestions that can help this project grow. If you have modified the code or have an idea to improve it, please don't hesitate to reach out. You can contact me directly via [`Instagram`](https://www.instagram.com/el_guemra_br) or by opening an **Issue** here on [GitHub](https://www.github.com/el-guemra-br). Your feedback helps make this humble work better for everyone!
+I accept and welcome all suggestions that can help this project grow. If you have modified the code or have an idea to improve it, please don't hesitate to reach out. You can contact me directly via [`Instagram`](https://www.instagram.com/el_guemra_br) or by opening an **Issue** here on [`GitHub`](https://www.github.com/el-guemra-br). Your feedback helps make this humble work better for everyone!
 
 ## License & Credits
 
