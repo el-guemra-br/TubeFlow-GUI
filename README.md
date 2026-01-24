@@ -27,7 +27,7 @@
 ### 2. Setup
 * Clone this repository to your local machine:
 
-      git clone [https://github.com/el-guemra-br/TubeFlow-GUI.git](https://github.com/el-guemra-br/TubeFlow-GUI.git)
+      git clone https://github.com/el-guemra-br/TubeFlow-GUI.git
   
       cd TubeFlow-GUI
 
