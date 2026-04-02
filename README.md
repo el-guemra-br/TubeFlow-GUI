@@ -31,13 +31,31 @@
   
       cd TubeFlow-GUI
 
-### 3. Install Dependencies
+### 3. Automatic Setup (Recommended)
 
-    pip install yt-dlp 
-    
+```powershell
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+.\setup.ps1
+```
+
 ### 4. Run the Application
 
-    python TubeFlow-GUI.py
+```powershell
+.\scripts\start.ps1
+```
+
+Or run directly:
+
+```powershell
+.\.venv\Scripts\python.exe .\TubeFlow-GUI.py
+```
+
+## Project Structure
+
+- Main source code: `src/tubeflow_gui/app.py`
+- App launcher: `TubeFlow-GUI.py`
+- Setup scripts: `setup.ps1`, `scripts/setup.ps1`, `scripts/start.ps1`
+- Full map: `PROJECT_MAP.md`
 
 ## Built With
 
